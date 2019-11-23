@@ -1,2 +1,1 @@
-# GitOpsExampleRepo
-GitOps Example Repo
+# eks-example
